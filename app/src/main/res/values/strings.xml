@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Version Control Demo</string>
+    <string name="action_settings">Settings</string>
+</resources>
