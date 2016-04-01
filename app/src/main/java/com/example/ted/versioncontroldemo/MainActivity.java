@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         String user = "ted";
+        String otherUser = "kristen";
     }
 
     @Override
